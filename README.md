@@ -12,7 +12,7 @@ Steps to follow:
   git commit -m "Skill adapter code"
   git push heroku master
   ``` 
-* Add following details as environment variables on AWS Lambda
+* Add following details as environment variables on heroku. (Refer https://devcenter.heroku.com/articles/config-vars)
   * PUB_NUB_CHANNEL_KEY=alexa_world
   * PUB_NUB_PUBLISH_KEY=YOUR_PUBNUB_PUBLISH_KEY
   * PUB_NUB_SUBSCRIBE_KEY=YOUR_PUBNUB_SUBSCRIBE_KEY
