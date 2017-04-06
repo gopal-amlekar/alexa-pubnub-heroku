@@ -1,0 +1,182 @@
+TurnOnIntent Turn on {Item}
+TurnOnIntent Switch on {Item}
+TurnOnIntent Turn that on {Item}
+TurnOnIntent Turn that {Item} on
+TurnOnIntent Switch that {Item} on
+TurnOnIntent Please switch on {Item}
+TurnOnIntent Please swtich that {Item} on
+TurnOnIntent Please turn on {Item}
+TurnOnIntent Please turn that {Item} on
+TurnOnIntent Turn on my {Item}
+TurnOnIntent Switch on my {Item}
+TurnOnIntent Switch my {Item} on
+TurnOnIntent Turn my {Item} on
+TurnOnIntent Can you please Turn on {Item}
+TurnOnIntent Can you please Switch on {Item}
+TurnOnIntent Can you please Turn that on {Item}
+TurnOnIntent Can you please Turn that {Item} on
+TurnOnIntent Can you please Switch that {Item} on
+TurnOnIntent Can you please Turn on my {Item}
+TurnOnIntent Can you please Switch on my {Item}
+TurnOnIntent Can you please Switch my {Item} on
+TurnOnIntent Can you please Turn my {Item} on
+TurnOnIntent Will you please Turn on {Item}
+TurnOnIntent Will you please Switch on {Item}
+TurnOnIntent Will you please Turn that on {Item}
+TurnOnIntent Will you please Turn that {Item} on
+TurnOnIntent Will you please Switch that {Item} on
+TurnOnIntent Will you please Turn on my {Item}
+TurnOnIntent Will you please Switch on my {Item}
+TurnOnIntent Will you please Switch my {Item} on
+TurnOnIntent Will you please Turn my {Item} on
+TurnOnIntent Could you please Turn on {Item}
+TurnOnIntent Could you please Switch on {Item}
+TurnOnIntent Could you please Turn that on {Item}
+TurnOnIntent Could you please Turn that {Item} on
+TurnOnIntent Could you please Switch that {Item} on
+TurnOnIntent Could you please Turn on my {Item}
+TurnOnIntent Could you please Switch on my {Item}
+TurnOnIntent Could you please Switch my {Item} on
+TurnOnIntent Could you please Turn my {Item} on
+TurnOnIntent Can you Turn on {Item}
+TurnOnIntent Can you Switch on {Item}
+TurnOnIntent Can you Turn that on {Item}
+TurnOnIntent Can you Turn that {Item} on
+TurnOnIntent Can you Switch that {Item} on
+TurnOnIntent Can you Turn on my {Item}
+TurnOnIntent Can you Switch on my {Item}
+TurnOnIntent Can you Switch my {Item} on
+TurnOnIntent Can you Turn my {Item} on
+TurnOnIntent Will you Turn on {Item}
+TurnOnIntent Will you Switch on {Item}
+TurnOnIntent Will you Turn that on {Item}
+TurnOnIntent Will you Turn that {Item} on
+TurnOnIntent Will you Switch that {Item} on
+TurnOnIntent Will you Turn on my {Item}
+TurnOnIntent Will you Switch on my {Item}
+TurnOnIntent Will you Switch my {Item} on
+TurnOnIntent Will you Turn my {Item} on
+TurnOnIntent Could you Turn on {Item}
+TurnOnIntent Could you Switch on {Item}
+TurnOnIntent Could you Turn that on {Item}
+TurnOnIntent Could you Turn that {Item} on
+TurnOnIntent Could you Switch that {Item} on
+TurnOnIntent Could you Turn on my {Item}
+TurnOnIntent Could you Switch on my {Item}
+TurnOnIntent Could you Switch my {Item} on
+TurnOnIntent Could you Turn my {Item} on
+TurnOffIntent Turn off {Item}
+TurnOffIntent Switch off {Item}
+TurnOffIntent Turn that off {Item}
+TurnOffIntent Turn that {Item} off
+TurnOffIntent Switch that {Item} off
+TurnOffIntent Please switch off {Item}
+TurnOffIntent Please swtich that {Item} off
+TurnOffIntent Please turn off {Item}
+TurnOffIntent Please turn that {Item} off
+TurnOffIntent Turn off my {Item}
+TurnOffIntent Switch off my {Item}
+TurnOffIntent Switch my {Item} off
+TurnOffIntent Turn my {Item} off
+TurnOffIntent Can you please Turn off {Item}
+TurnOffIntent Can you please Switch off {Item}
+TurnOffIntent Can you please Turn that off {Item}
+TurnOffIntent Can you please Turn that {Item} off
+TurnOffIntent Can you please Switch that {Item} off
+TurnOffIntent Can you please Turn off my {Item}
+TurnOffIntent Can you please Switch off my {Item}
+TurnOffIntent Can you please Switch my {Item} off
+TurnOffIntent Can you please Turn my {Item} off
+TurnOffIntent Will you please Turn off {Item}
+TurnOffIntent Will you please Switch off {Item}
+TurnOffIntent Will you please Turn that off {Item}
+TurnOffIntent Will you please Turn that {Item} off
+TurnOffIntent Will you please Switch that {Item} off
+TurnOffIntent Will you please Turn off my {Item}
+TurnOffIntent Will you please Switch off my {Item}
+TurnOffIntent Will you please Switch my {Item} off
+TurnOffIntent Will you please Turn my {Item} off
+TurnOffIntent Could you please Turn off {Item}
+TurnOffIntent Could you please Switch off {Item}
+TurnOffIntent Could you please Turn that off {Item}
+TurnOffIntent Could you please Turn that {Item} off
+TurnOffIntent Could you please Switch that {Item} off
+TurnOffIntent Could you please Turn off my {Item}
+TurnOffIntent Could you please Switch off my {Item}
+TurnOffIntent Could you please Switch my {Item} off
+TurnOffIntent Could you please Turn my {Item} off
+TurnOffIntent Can you Turn off {Item}
+TurnOffIntent Can you Switch off {Item}
+TurnOffIntent Can you Turn that off {Item}
+TurnOffIntent Can you Turn that {Item} off
+TurnOffIntent Can you Switch that {Item} off
+TurnOffIntent Can you Turn off my {Item}
+TurnOffIntent Can you Switch off my {Item}
+TurnOffIntent Can you Switch my {Item} off
+TurnOffIntent Can you Turn my {Item} off
+TurnOffIntent Will you Turn off {Item}
+TurnOffIntent Will you Switch off {Item}
+TurnOffIntent Will you Turn that off {Item}
+TurnOffIntent Will you Turn that {Item} off
+TurnOffIntent Will you Switch that {Item} off
+TurnOffIntent Will you Turn off my {Item}
+TurnOffIntent Will you Switch off my {Item}
+TurnOffIntent Will you Switch my {Item} off
+TurnOffIntent Will you Turn my {Item} off
+TurnOffIntent Could you Turn off {Item}
+TurnOffIntent Could you Switch off {Item}
+TurnOffIntent Could you Turn that off {Item}
+TurnOffIntent Could you Turn that {Item} off
+TurnOffIntent Could you Switch that {Item} off
+TurnOffIntent Could you Turn off my {Item}
+TurnOffIntent Could you Switch off my {Item}
+TurnOffIntent Could you Switch my {Item} off
+TurnOffIntent Could you Turn my {Item} off
+SetValueIntent Set {Item} to {amount}
+SetValueIntent Set speed of {Item} to {amount}
+SetValueIntent Set brightness of {Item} to {amount}
+SetValueIntent Please Set {Item} to {amount}
+SetValueIntent Please Set speed of {Item} to {amount}
+SetValueIntent Please Set brightness of {Item} to {amount}
+SetValueIntent Can you Please Set {Item} to {amount}
+SetValueIntent Can you Please Set speed of {Item} to {amount}
+SetValueIntent Can you Please Set brightness of {Item} to {amount}
+SetValueIntent Will you please Set {Item} to {amount}
+SetValueIntent Will you please Set speed of {Item} to {amount}
+SetValueIntent Will you please Set brightness of {Item} to {amount}
+SetValueIntent Can you Set {Item} to {amount}
+SetValueIntent Can you Set speed of {Item} to {amount}
+SetValueIntent Can you Set brightness of {Item} to {amount}
+SetValueIntent Could you Set {Item} to {amount}
+SetValueIntent Could you Set speed of {Item} to {amount}
+SetValueIntent Could you Set brightness of {Item} to {amount}
+SetValueIntent Will you Set {Item} to {amount}
+SetValueIntent Will you Set speed of {Item} to {amount}
+SetValueIntent Will you Set brightness of {Item} to {amount}
+
+
+OpenDoorIntent Open {Door}
+OpenDoorIntent Open the {Door}
+OpenDoorIntent Please Open {Door}
+OpenDoorIntent Will you please Open the {Door}
+OpenDoorIntent Can you Open {Door}
+OpenDoorIntent Can you please Open the {Door}
+OpenDoorIntent Will you Open {Door}
+
+
+CloseDoorIntent Close {Door}
+CloseDoorIntent Close the {Door}
+CloseDoorIntent Please Close {Door}
+CloseDoorIntent Will you please Close {Door}
+CloseDoorIntent Will you Close {Door}
+CloseDoorIntent Can you Close {Door}
+CloseDoorIntent Can you please Close {Door}
+
+CloseDoorIntent Shut {Door}
+CloseDoorIntent Shut the {Door}
+CloseDoorIntent Please Shut {Door}
+CloseDoorIntent Will you Shut Close {Door}
+CloseDoorIntent Will you Shut {Door}
+CloseDoorIntent Can you Shut {Door}
+CloseDoorIntent Can you please Shut {Door}
+
