@@ -1,0 +1,62 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Item",
+          "type": "LIST_OF_ITEMS"
+        }
+      ],
+      "intent": "TurnOnIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Item",
+          "type": "LIST_OF_ITEMS"
+        }
+      ],
+      "intent": "TurnOffIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Door",
+          "type": "LIST_OF_DOORS"
+        }
+      ],
+      "intent": "OpenDoorIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Door",
+          "type": "LIST_OF_DOORS"
+        }
+      ],
+      "intent": "CloseDoorIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Item",
+          "type": "LIST_OF_ITEMS"
+        },
+        {
+          "name": "amount",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "SetValueIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
